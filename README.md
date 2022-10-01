@@ -36,14 +36,14 @@ The Challenge was about making a profile card component and get it look as close
 
 ![](desktop-light.png)
 ![](desktop-dark.png)
-![](monile-light.jpg)
-![](monile-dark.jpg)
+![](mobile-light.jpg)
+![](mobile-dark.jpg)
 
 
 ### Links
 
 - Solution URL: (https://github.com/karenescabarte/Clipboard-Landing-Page.git)
-- Live Site URL: (https://karenescabarte.github.io/Order-summary-component/)
+- Live Site URL: (https://karenescabarte.github.io/Clipboard-landing-page/)
 
 ## My process
 This challenge was made by the help of HTML5 and CSS3. 

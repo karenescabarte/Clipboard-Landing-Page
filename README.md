@@ -36,8 +36,8 @@ The Challenge was about making a profile card component and get it look as close
 
 ![](desktop-light.png)
 ![](desktop-dark.png)
-![](mobile-light.jpg)
-![](mobile-dark.jpg)
+![](mobile-light.png)
+![](mobile-dark.png)
 
 
 ### Links
